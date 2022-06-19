@@ -1,0 +1,5 @@
+--UC-1
+CREATE DATABASE Payroll_Service
+SELECT * FROM SYS.DATABASES
+USE Payroll_Service
+
